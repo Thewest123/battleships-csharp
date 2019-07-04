@@ -1,0 +1,133 @@
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+C:\Users\honza\source\repos\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+C:\Users\thewe\OneDrive - Smíchovská střední průmyslová škola\PVA-Projekt\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Resources.Messages_cs_CZ.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Resources.Messages.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\cs\BattleshipsClient.resources.dll
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Resources.Messages.cs.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\cs\BattleshipsClient.resources.dll
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\bin\Debug\en\BattleshipsClient.resources.dll
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.en.resources
+C:\Users\thewe\Desktop\BattleshipsGame\BattleshipsClient\obj\Debug\en\BattleshipsClient.resources.dll
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\en\BattleshipsClient.resources.dll
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\NetworkCommsDotNetComplete.dll
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.en.resources
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\en\BattleshipsClient.resources.dll
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\NetworkCommsDotNetComplete.dll
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+C:\Users\thewe\Desktop\BattleshipsGame-FINAL-3\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\BattleshipsClient.exe.config
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\BattleshipsClient.pdb
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\BattleshipsLibrary.dll
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\NetworkCommsDotNetComplete.dll
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\bin\Debug\BattleshipsLibrary.pdb
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.csprojAssemblyReference.cache
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.GameForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.LobbyForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.LoginForm.resources
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.Properties.Resources.resources
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.GenerateResource.cache
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CoreCompileInputs.cache
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.csproj.CopyComplete
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.exe
+F:\PLOCHA\BattleshipsGame-FINAL-4\BattleshipsClient\obj\Debug\BattleshipsClient.pdb
