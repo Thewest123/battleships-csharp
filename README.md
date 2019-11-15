@@ -8,8 +8,8 @@ Final project for my C# programing class in WinForm applications
 
 ## Usage
  1. The Console Server application
- 	- Displaying the IPs on which the server listens
- 	- Showing logs
+ 	- Displays the IPs at which the server is listening
+ 	- Shows logs
  	- Changable name by setting more args when running from console
 
 
@@ -17,3 +17,14 @@ Final project for my C# programing class in WinForm applications
  	- Loggin Form
  	- Lobby Form
  	- Game Form
+  
+  
+## Preview
+### The Game
+!["Battle Form"](https://i.imgur.com/5eSb5OV.png)
+
+### The Lobby, chat
+!["Lobby Form"](https://i.imgur.com/7N2duQY.png)
+
+### Server / Console log
+!["Server Console"](https://i.imgur.com/d3bd73B.png)
